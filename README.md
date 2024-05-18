@@ -67,7 +67,7 @@ To install and run Aspirise locally, follow these steps:
 
 1. Clone the repository:
    sh
-   git clone https://github.com/yourusername/aspirise.git
+   git clone [https://github.com/yourusername/aspirise.git](https://github.com/mohithdl18/symbiot_depression_detector.git)
    
 
 2. Navigate to the project directory:
