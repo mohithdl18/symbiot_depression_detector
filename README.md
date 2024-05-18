@@ -66,17 +66,17 @@ The final phase focuses on long-term engagement and support. Users have tools to
 To install and run Aspirise locally, follow these steps:
 
 1. Clone the repository:
-   sh
-   git clone [https://github.com/yourusername/aspirise.git](https://github.com/mohithdl18/symbiot_depression_detector.git)
+   ```sh
+   git clone https://github.com/mohithdl18/symbiot_depression_detector.git
    
 
 2. Navigate to the project directory:
-   sh
+   ```sh
    cd aspirise
    
 
 3. Just Run:
-   sh
+   ```sh
    python app.py
    
 ## Contributing
